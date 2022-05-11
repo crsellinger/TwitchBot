@@ -1,0 +1,6 @@
+{
+    "channel":"Synfule",
+    "username":"SynBot",
+    "password":"oauth:8gfar3kj801klxv70x57zzr1c0ye4v",
+    "__comments__":"to change bot name, must create new account on twitch for bot and connect tmi with new Oauth password"
+}
