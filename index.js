@@ -42,6 +42,6 @@ client.on('message', (channel, user, message, self) => {
 
     if (message == '!ping'){
         client.say(channel, `@${user.username} has pinged SynBot!`);
-        console.log(DiscordBot.)
+        //console.log(DiscordBot.)
     }
 });
